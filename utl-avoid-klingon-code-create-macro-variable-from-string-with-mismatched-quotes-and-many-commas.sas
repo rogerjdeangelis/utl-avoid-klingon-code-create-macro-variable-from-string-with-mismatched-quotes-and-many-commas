@@ -9,7 +9,12 @@ SOAPBOX ON
   the string existes outside of the macro compiler
 SOAPBOX OFF
 
+github
+https://tinyurl.com/jr2r8uuk
+https://github.com/rogerjdeangelis/utl-avoid-klingon-code-create-macro-variable-from-string-with-mismatched-quotes-and-many-commas
 
+communities.sas.com
+https://tinyurl.com/yc6jrt56
 https://communities.sas.com/t5/SAS-Programming/Macro-variable-value-with-single-quote/m-p/765596#M242519
 
 INPUT
